@@ -13,3 +13,4 @@ In the login page we can enter email and password to sign back in
 The app is built using React JS, HTML, CSS, and third party packages like react-router-dom for routing, js-cookie for local storage, react-icons for icons
 I have used firebase for User Authentication, Storage of posts, and Hosting of my website
 
+**Website live Link: ** : https://satish-my-social-media-app.web.app/
